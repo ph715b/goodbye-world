@@ -1,4 +1,4 @@
-*Goodbye..*
+*Goodbye...*
 
 ***
 
