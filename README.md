@@ -1,4 +1,4 @@
-<h2>*Goodbye..*</h2>
+*Goodbye..*
 
 ***
 
